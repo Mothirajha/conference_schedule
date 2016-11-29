@@ -1,6 +1,6 @@
 # Conference Schedule
 
-bundle install rspec
+gem install rspec
 
 rspec conference_track_management_spec.rb --color --format doc
 
